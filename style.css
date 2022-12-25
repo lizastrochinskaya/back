@@ -1,0 +1,30 @@
+ 
+/* 
+font-family: 'Poiret One', cursive; */
+h1 {
+    font-family: 'Marck Script', cursive;
+    font-size: 75px;
+    line-height: 94px;
+}
+body {
+    background-image:url("img/main-bkg.jpg");
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    color: beige;
+    padding: 300px;
+}
+p {
+    font-family: 'Poiret One', cursive;
+    font-size: 24px;
+    line-height: 28px;
+}
+button {
+    font-family: 'Marck Script', cursive; 
+    font-size: 32px;
+    line-height: 40px;
+    background-color:transparent ;
+    color: aliceblue;
+    border: solid white 1px;
+}
